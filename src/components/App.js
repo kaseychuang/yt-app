@@ -2,7 +2,6 @@ import React, { useState, useEffect } from 'react';
 import SearchBar from './SearchBar';
 import VideoList from './VideoList.js';
 import VideoDetail from './VideoDetail';
-import useVideo from '../hooks/useVideos';
 import useVideos from '../hooks/useVideos';
 
 
